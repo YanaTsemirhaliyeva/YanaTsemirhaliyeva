@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋. Nice to see you.
+##
+Welcome to my page! 😄<br/>
+Hi! I'm Yana, Frontend developer from Minsk, Belarus.<br/>
+The beginning of my journey into the world of IT began with HTML-Academy courses.<br/>
+And since that time I have learned such technologies as:
 
+### ✨TECH STACK✨
+HTML5 / CSS3 / Tailwind CSS / JS / TypeScript / React / Axios / Redux / RTK / Vite / Webpack / Vitest / React testing library / Git / Leaflet / Swiper / ...
+
+### Connect with me on:
+📫 
 <!--
 **YanaTsemirhaliyeva/YanaTsemirhaliyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
