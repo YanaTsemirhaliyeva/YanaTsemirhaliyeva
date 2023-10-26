@@ -24,6 +24,8 @@ And since that time I have learned such technologies as:
 <img src="https://img.shields.io/badge/Leaflet-282C34?logo=leaflet&logoColor=199900" alt="Leaflet logo" title="Leaflet" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Swiper-282C34?logo=swiper&logoColor=6332F6" alt="Swiper logo" title="Swiper" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React%20Hook%20Form-282C34?logo=react-hook-form&logoColor=EC5990" alt="React Hook Form logo" title="React Hook Form" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />&nbsp;
+
 
 ---
 
