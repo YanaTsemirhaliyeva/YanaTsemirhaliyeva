@@ -60,7 +60,7 @@ And since that time I have learned such technologies as:
 ---
 
 ### :e-mail: Connect with me on: :mailbox_with_mail:
-[![Telegram Badge](https://img.shields.io/badge/-Ya_Ti3-63BCFF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ya_Ti3)
+[![Telegram Badge](https://img.shields.io/badge/-Ya_Ti3-2488C8?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ya_Ti3)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kolesiko.yana@gmail.com)
 
 ---
