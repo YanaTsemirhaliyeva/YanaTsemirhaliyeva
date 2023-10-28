@@ -41,7 +41,7 @@ And since that time I have learned such technologies as:
 ### :technologist: My latest projects
 
 #### :camera_flash: Online store of photo and video equipment
-[VERCEL-hosting](camera-build-vite-temirgalieva.vercel.app) <br />
+[VERCEL-hosting](https://camera-build-vite-temirgalieva.vercel.app/?page=1) <br />
 [GITHUB-repository](https://github.com/YanaTsemirhaliyeva/camera-build-vite)<br />
 
 #### :male_detective: Online booking of quests
