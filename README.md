@@ -52,6 +52,17 @@ And since that time I have learned such technologies as:
 
 ---
 
+### :game_die:  Codewars:
+
+[![codewars](https://www.codewars.com/users/Yana_Ti3/badges/large)](https://www.codewars.com/users/Yana_Ti3/badges/large)
+
+
+---
+
 ### :e-mail: Connect with me on: :mailbox_with_mail:
-[![Telegram Badge](https://img.shields.io/badge/-Ya_Ti3-63BCFF?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Ya_Ti3)
+[![Telegram Badge](https://img.shields.io/badge/-Ya_Ti3-63BCFF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ya_Ti3)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kolesiko.yana@gmail.com)
+
+---
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yanatsemirhaliyeva)](https://visitor-badge.laobi.icu/badge?page_id=yanatsemirhaliyeva)
