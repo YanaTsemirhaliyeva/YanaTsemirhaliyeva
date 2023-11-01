@@ -25,6 +25,7 @@ And since that time I have learned such technologies as:
 <img src="https://img.shields.io/badge/Swiper-282C34?logo=swiper&logoColor=6332F6" alt="Swiper logo" title="Swiper" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React%20Hook%20Form-282C34?logo=react-hook-form&logoColor=EC5990" alt="React Hook Form logo" title="React Hook Form" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />&nbsp;
 
 
 ---
@@ -35,7 +36,6 @@ And since that time I have learned such technologies as:
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />&nbsp;
 
 ---
 
