@@ -1,4 +1,4 @@
-### :eight_spoked_asterisk: Hi there 👋. Nice to see you. :eight_spoked_asterisk:
+## :eight_spoked_asterisk: Hi there 👋. Nice to see you. :eight_spoked_asterisk:
 ---
 Welcome to my page! :rose:<br/>
 Hi! I'm Yana, Frontend developer from :round_pushpin: Minsk, Belarus.<br/>
@@ -35,6 +35,7 @@ And since that time I have learned such technologies as:
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />&nbsp;
 
 ---
 
@@ -52,9 +53,15 @@ And since that time I have learned such technologies as:
 
 ---
 
-### :game_die:  Codewars:
+### :game_die: Codewars:
 
 [![codewars](https://www.codewars.com/users/Yana_Ti3/badges/large)](https://www.codewars.com/users/Yana_Ti3/badges/large)
+
+
+----
+
+### :bar_chart: Languages's statistic in my GitHub:
+<img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YanaTsemirhaliyeva&layout=compact&theme=vision-friendly-dark" />
 
 
 ---
