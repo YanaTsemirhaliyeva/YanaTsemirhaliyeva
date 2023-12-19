@@ -41,7 +41,7 @@ And since that time I have learned such technologies as:
 
 ---
 
-### :technologist: My latest projects
+<!-- ### :technologist: My latest projects
 
 #### :camera_flash: Online store of photo and video equipment
 [VERCEL-hosting](https://camera-build-vite-temirgalieva.vercel.app/?page=1) <br />
@@ -51,7 +51,7 @@ And since that time I have learned such technologies as:
 
 [VERCEL-hosting](https://quests-time-ya-timergalieva.vercel.app/) <br />
 [GITHUB-repository](https://github.com/YanaTsemirhaliyeva/quests-time) <br />
-
+ -->
 
 ---
 
