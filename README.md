@@ -7,8 +7,10 @@ And since that time I have learned such technologies as:
 
 ### ✨ TECH STACK & TOOLS I use ✨
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=A86454" alt="Pug logo" title="Pug" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Less-282C34?logo=less&logoColor=1D365D" alt="Less logo" title="Less" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
