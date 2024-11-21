@@ -1,5 +1,7 @@
 ## :eight_spoked_asterisk: Hi there 👋. Nice to see you. :eight_spoked_asterisk:
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Results-oriented+professional+with+experience+in+frontend+development.;Eager+to+contribute+innovative+solutions+and+a+fresh+perspective+to+your+team.)](https://git.io/typing-svg)
+---
 Welcome to my page! :rose:<br/>
 Hi! I'm Yana, Frontend developer from :round_pushpin: Minsk, Belarus.<br/>
 The beginning of my journey into the world of IT began with HTML-Academy courses in 2022.<br/>
